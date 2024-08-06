@@ -10,6 +10,9 @@
 ## What It Does
 
 Vastra AI provides intelligent style suggestions by analyzing images of clothing items from the user’s wardrobe. The application uses advanced machine learning algorithms to understand the style, color, and type of clothing items. It then generates personalized recommendations for new outfit combinations, helping users discover fresh ways to wear the clothes they already own. This approach enhances wardrobe management and promotes sustainable fashion practices by encouraging the reuse of existing clothing.
+<br>
+![output](https://github.com/user-attachments/assets/eb489ca8-25d3-4b27-9f5d-7ede2e044704)
+
 
 
 ## How We Built It
